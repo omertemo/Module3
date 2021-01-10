@@ -1,0 +1,10 @@
+.title{
+    text-align: center;
+}
+#list-elemets{
+    text-align: center;
+}
+#boxes{
+    border: 5px solid white;
+    background-color: gray;
+}
